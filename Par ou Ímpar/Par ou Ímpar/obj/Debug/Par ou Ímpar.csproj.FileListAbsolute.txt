@@ -1,0 +1,16 @@
+C:\etec\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.csprojResolveAssemblyReference.cache
+C:\etec\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par_ou_Ímpar.MainForm.resources
+C:\etec\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.csproj.GenerateResource.Cache
+C:\etec\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.exe.config
+C:\etec\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.exe
+C:\etec\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.pdb
+C:\etec\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.exe
+C:\etec\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.pdb
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.exe.config
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.exe
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\bin\Debug\Par ou Ímpar.pdb
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.csprojResolveAssemblyReference.cache
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par_ou_Ímpar.MainForm.resources
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.csproj.GenerateResource.Cache
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.exe
+C:\Users\SUBWAY\Desktop\Par ou Ímpar\Par ou Ímpar\Par ou Ímpar\obj\Debug\Par ou Ímpar.pdb
